@@ -6,6 +6,8 @@
     <string name="msg.winner">Winner</string>
     <string name="msg.tie">Tie</string>
     <string name="msg.vs">vs.</string>
+    <string name="msg.unknown">"?"</string>
+
     <string name="button.rock">Rock</string>
     <string name="button.paper">Paper</string>
     <string name="button.scissors">Scissors</string>
